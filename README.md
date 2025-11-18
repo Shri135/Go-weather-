@@ -190,7 +190,8 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-- **Darshan Loni** - [GitHub](https://github.com/DarshanLoni)
+- **Shrinivas** - [GitHub](https://github.com/Shri135
+  )
 
 ## Acknowledgments
 
