@@ -33,7 +33,7 @@ cd GoWeather
 - Sign up for a free account
 - Generate an API key
 
-### 3. Configure environment variables
+### 3. Configure environment variable
 Create a `.env` file in the root directory (or copy from `.env.example`):
 ```env
 OPENWEATHER_API_KEY=your_api_key_here
